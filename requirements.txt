@@ -1,0 +1,15 @@
+python-dotenv
+ipykernel
+langchain 
+openai
+tiktoken 
+rapidocr-onnxruntime
+langchain-community
+langchain-openai
+pymupdf
+faiss-cpu
+pydantic
+langsmith 
+openai
+structlog
+langchain_google_genai
